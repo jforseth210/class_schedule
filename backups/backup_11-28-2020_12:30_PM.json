@@ -1,0 +1,44 @@
+{
+    "1": [
+        {
+            "Name": "Calculus",
+            "Teacher": "Placeholder",
+            "Video Call": "https:\/\/meet.google.com\/lookup\/f7nenf6w4s"
+        }
+    ],
+    "2a": [
+        {
+            "Name": "Media Center",
+            "Teacher": "Placeholder",
+            "Video Call": "https:\/\/meet.google.com\/lookup\/cl4kebxdlt"
+        }
+    ],
+    "2b": [
+        {
+            "Name": "Senior Prep",
+            "Teacher": "Placeholder",
+            "Video Call": "https:\/\/classroom.google.com\/c\/MTMxOTYwMjY4MDMy"
+        }
+    ],
+    "3": [
+        {
+            "Name": "Video Production",
+            "Teacher": "Placeholder",
+            "Video Call": "https:\/\/giphy.com\/gifs\/3ornjSZp9jUtEFlsL6"
+        }
+    ],
+    "4": [
+        {
+            "Name": "Honors English IV",
+            "Teacher": "Placeholder",
+            "Video Call": "Placeholder"
+        }
+    ],
+    "5": [
+        {
+            "Name": "Independent Ag",
+            "Teacher": "Placeholder",
+            "Video Call": "Placeholder"
+        }
+    ]
+}

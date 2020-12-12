@@ -1,0 +1,70 @@
+{
+    "1": [
+        {
+            "Name": "1 Media Center",
+            "Video Call": "https:\/\/meet.google.com\/lookup\/bikbrxy5qy?authuser=2&hs=179"
+        },
+        {
+            "Name": "Calculus",
+            "Video Call": "https:\/\/meet.google.com\/lookup\/f7nenf6w4s"
+        },
+        {
+            "Name": "Physics",
+            "Video Call": "http:\/\/endoftheinternet.com\/"
+        }
+    ],
+    "2a": [
+        {
+            "Name": "2a Media Center",
+            "Video Call": "mailto:abrown@fairfield.k12.mt.us"
+        },
+        {
+            "Name": "Ag III\/IV",
+            "Video Call": "https:\/\/meet.google.com\/zmf-hcrc-cwn"
+        }
+    ],
+    "2b": [
+        {
+            "Name": "2b Media Center",
+            "Video Call": "mailto:abrown@fairfield.k12.mt.us"
+        },
+        {
+            "Name": "Senior Prep",
+            "Video Call": "https:\/\/classroom.google.com\/c\/MTMxOTYwMjY4MDMy"
+        }
+    ],
+    "3": [
+        {
+            "Name": "3 Media Center",
+            "Video Call": "mailto:abrown@fairfield.k12.mt.us"
+        },
+        {
+            "Name": "Video Production",
+            "Video Call": "https:\/\/meet.jit.si\/fhsvideoproduction"
+        }
+    ],
+    "4": [
+        {
+            "Name": "4 Media Center",
+            "Video Call": "mailto:abrown@fairfield.k12.mt.us"
+        },
+        {
+            "Name": "Honors English IV",
+            "Video Call": "https:\/\/meet.google.com\/lookup\/d3mliw3kzp"
+        },
+        {
+            "Name": "US History",
+            "Video Call": "https:\/\/www.history.com\/"
+        }
+    ],
+    "5": [
+        {
+            "Name": "5 Media Center",
+            "Video Call": "https:\/\/meet.google.com\/lookup\/bq4hql3hpi?authuser=2&hs=179"
+        },
+        {
+            "Name": "Independent Ag",
+            "Video Call": "https:\/\/zoom.us\/j\/96173017830?pwd=UkZqblBzaURHVWtSMHhvSHBpVEV5UT09"
+        }
+    ]
+}
