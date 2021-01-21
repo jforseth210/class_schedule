@@ -221,7 +221,7 @@
         <h1>Instructions</h1>
         <p>Select your classes and leave this tab open to automatically have them open when the "bell rings", or click "Go to class" to open the class now.</p>
         <p>Link changed? Your class missing? Get an authorization code to update this page.</p>
-        <p><b><i>I recently discovered a bug with the sign-up system, which has since been fixed. If you're having problems adding or modifying classes, please request a new code. Sorry for the inconvience! If you run into any problems, feel free to email me at <a href="mailto:support@jforseth.tech">support@jforseth.tech</a>.</i></b></p>
+        <!--<p><b><i>I recently discovered a bug with the sign-up system, which has since been fixed. If you're having problems adding or modifying classes, please request a new code. Sorry for the inconvience! If you run into any problems, feel free to email me at <a href="mailto:support@jforseth.tech">support@jforseth.tech</a>.</i></b></p>-->
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#authModal">Get Authorized</button>
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#deleteModal">Delete a class</button>
